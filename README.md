@@ -1,4 +1,6 @@
 # SixSeven Emoji Replacer
+## Preview:
+<img style="width:50%" src="https://github.com/KuramiDEV/SixSeven-Spicetify-Extension/blob/main/preview.png"/>
 
 [Spicetify](https://github.com/khanhas/spicetify-cli) extension that replaces standalone `67` text with an animated glowing cyan inline emoji effect
 
