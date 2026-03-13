@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Six Seven",
+    "description": "Add a special animation for the number 67",
+    "preview": "preview.png",
+    "main": "SixSeven.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "KuramiDev",
+        "url": "https://github.com/KuramiDEV"
+      }
+    ],
+    "tags": ["ui"]
+  }
+]
